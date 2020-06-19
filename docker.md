@@ -13,7 +13,7 @@
 
 ### docker container stop [container_name]
 
-### docker run -d -p [access port : mapped port] --name [container_name]
+### docker run -d -p [access port : mapped port] --name [container_name] [image_name]
 - -d runs detached so in the background
 - -p publishes ports to host
 
